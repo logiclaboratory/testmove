@@ -5,3 +5,5 @@ Perform Login
 from user management
 
 perform user management
+
+do cleanup
